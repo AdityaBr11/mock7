@@ -1,12 +1,14 @@
 {
   "login": [
     {
+      "id":1,
       "name":"Admin",
      "email":"admin@stockbroker.com",
      "password":"admin123",
      "role":"admin"
     },
     {
+      "id":2,
       "name":"Aditya",
      "email":"aditya@gmail.com",
      "password":"123456",
